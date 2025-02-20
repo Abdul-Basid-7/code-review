@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** file for your MERN stack project:  
-
----
-
 # **AI Code Reviewer**  
 
 ## **Overview**  
